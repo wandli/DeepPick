@@ -22,3 +22,6 @@ If you take advantage of DeepPick in your research, please cite the following in
 }
 ```
 
+# Dataset
+
+You can download a sample dataset from [this Dropbox link](https://www.dropbox.com/scl/fi/2ibi5072y9pn13x49ci9l/dataset.zip?rlkey=9yk9fc0xzm3cvpy92sd0b102f&dl=0) and run `main.py` to reproduce the results.
