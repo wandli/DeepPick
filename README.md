@@ -10,16 +10,15 @@ This is the official code for TKDE Paper:
 If you take advantage of DeepPick in your research, please cite the following in your manuscript:
 
 ```
-@article{li2021deeppick,
-  title={DeepPick: a deep learning approach to unveil outstanding users with public attainable features},
+@ARTICLE{9462439,
   author={Li, Wanda and Xu, Zhiwei and Sun, Yi and Gong, Qingyuan and Chen, Yang and Ding, Aaron Yi and Wang, Xin and Hui, Pan},
-  journal={IEEE Transactions on Knowledge and Data Engineering},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={DeepPick: A Deep Learning Approach to Unveil Outstanding Users With Public Attainable Features}, 
+  year={2023},
   volume={35},
   number={1},
-  pages={291--306},
-  year={2021},
-  publisher={IEEE}
-}
+  pages={291-306},
+  doi={10.1109/TKDE.2021.3091503}}
 ```
 
 # Dataset
